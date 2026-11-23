@@ -1,0 +1,8 @@
+# Private notes & reference implementation
+private/**
+
+# Node dependencies
+node_modules/
+
+# Build outputs
+dist/
